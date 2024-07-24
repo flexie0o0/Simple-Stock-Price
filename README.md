@@ -1,7 +1,7 @@
 # Simple Stock Price
 
 <p>
-  This project dispplays the stock <b>closing price </b> and <b> volume</b> of Google using the <b> streamlit</b> framework of Python.
+  This project displays the stock <b>closing price </b> and <b> volume</b> of Google using the <b> streamlit</b> framework of Python.
 </p>
 
 <h3>
