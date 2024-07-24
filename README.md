@@ -22,8 +22,5 @@
 </p>
 <br>
 
-<h3>
-  Result:
-</h3>
-![stock](https://github.com/user-attachments/assets/46ad558e-2e52-4464-9dd6-ea7ef4bac287)
+
 
