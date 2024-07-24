@@ -25,4 +25,4 @@
 <h3>
   Result:
 </h3>
-![image](https://github.com/user-attachments/assets/c4565adb-5db6-4eb7-a114-cb2279f67f1e)
+![Alt text] "F:\pythonenaa\ss\stock.png"
