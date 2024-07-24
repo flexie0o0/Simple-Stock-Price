@@ -20,3 +20,9 @@
   Local URL: <a href = "http://localhost:8501"> http://localhost:8501 </a><br>
   Network URL: <a href = "http://192.168.1.92:8501"> http://192.168.1.92:8501 </a>
 </p>
+<br>
+
+<h3>
+  Result:
+</h3>
+![image](https://github.com/user-attachments/assets/c4565adb-5db6-4eb7-a114-cb2279f67f1e)
